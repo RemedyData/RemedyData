@@ -1,7 +1,7 @@
 # - 👋 Hi, I’m @RemedyData #
 ## I am a Data Analyst ##
 - 👀 I’m interested in Data Science and Macine learning
-- 🌱 I’m currently learning Data Analysis with Dahel Consultant Techies
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate with start-up founders and business owners
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ramadan-salman-521b1224b/)
 - 📑 Looking at the rapid development of technology and the need for industries and business ventures to make predictions,
