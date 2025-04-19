@@ -1,5 +1,4 @@
-# 👋Hi,
-# I’m @RemedyData #
+# 👋Hi,I’m RemedyData #
 ## I am a Data Analyst ##
 - 👀 I’m interested in Data Science and Macine learning
 - 🌱 I’m currently learning Data Science
