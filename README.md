@@ -11,7 +11,7 @@
 
 My Work Tools:
 - Microsoft Excel
-- SQL(Structured Query Language)
+- SQL
 - Power BI
 - Tableau
 - Python
