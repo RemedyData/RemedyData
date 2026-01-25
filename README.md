@@ -1,5 +1,5 @@
 # 👋Hi,I’m DataRemedy #
-## I am a Data Analyst ##
+## I am a Data Scientist (Analyst) ##
 - 👀 I’m interested in Data Science and Macine learning
 - 🌱 I’m currently upskilling my Data Science skill 
 - 💞️ I’m looking to collaborate with start-up founders and business owners
